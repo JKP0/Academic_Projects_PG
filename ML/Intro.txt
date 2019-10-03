@@ -1,1 +1,4 @@
 This folder contains Machine Learning projects which I have done in my Machine Learning coures CS326 at RKMVERI, Bleur Math, Howrah.
+ Assignment0: Study of behaviour of classifiers
+ Assignment1: Document Classification
+ Assignment2: Sentiment Analysis
