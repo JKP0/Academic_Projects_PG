@@ -1,1 +1,2 @@
-Intro
+This folder contains Deep Learning and NLP projects.
+For Video Capationing project look on reposotory P_Project/Video_captioning
