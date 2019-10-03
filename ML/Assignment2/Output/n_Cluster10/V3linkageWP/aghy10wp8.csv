@@ -1,0 +1,11 @@
+SN.,size of cluster,cluster member,cluster ID,first match count,second match count
+0,24,"('course', 'decisions', 'prejudice', 'motives', 'passion', 'situations', 'ethic', 'leadership', 'president', 'deliberate', 'intelligence', 'relations', 'ideas', 'politics', 'office', 'skills', 'qualities', 'honesty', 'systems', 'goals', 'teamwork', 'mature', 'term', 'knowledge')",1,"(7, (0, 'leadership', 17, 29))","(0, None)"
+1,22,"('problem', 'empathy', 'hard', 'bravery', 'morality', 'unity', 'polite', 'decisiveness', 'integrity', 'peaceful', 'sure', 'capable', 'political', 'kindness', 'crucial', 'international', 'agreeable', 'selfless', 'ability', 'calm', 'compassion', 'confident')",0,"(8, (0, 'leadership', 17, 29))","(0, None)"
+2,11,"('join', 'commitment', 'groups', 'time', 'people', 'experience', 'lot', 'constitution', 'character', 'leader', 'care')",2,"(3, (2, 'relate to diverse groups', 8, 17))","(1, (0, 'leadership', 17, 29))"
+3,11,"('ulterior', 'strong', 'inclusivity', 'umm', 'underprivileged', 'stressful', 'levelheadedness', ""i'm"", 'level-headed', 'others', 'proud')",7,"(4, (0, 'leadership', 17, 29))","(0, None)"
+4,11,"('nice', 'u', 'wise', 'common', 'good', 'whole', 'diplomacy', 'sociology', 'progressive', 'idiot', 'basic')",9,"(4, (5, 'intelligence/knowledge', 9, 12))","(3, (1, 'diplomacy', 18, 22))"
+5,10,"('able', 'trustworthy', 'honest', 'humility', 'trustworthiness', 'equality', 'genuine', 'vast', 'logical', 'willingness')",8,"(3, (1, 'diplomacy', 18, 22))","(0, None)"
+6,8,"('different', 'sophisticated', 'smart', 'approachable', 'eloquent', 'long', 'sense', 'humble')",5,"(2, (0, 'leadership', 17, 29))","(0, None)"
+7,6,"('prejudices', 'management', 'appeals', 'work', 'compromise', 'achievement')",4,"(2, (1, 'diplomacy', 18, 22))","(1, (0, 'leadership', 17, 29))"
+8,5,"('dedication', 'run', 'understanding', 'determination', 'promises')",3,"(1, (3, 'political skills ', 9, 16))","(0, None)"
+9,4,"('someone', 'country', 'negotiator', 'county')",6,"(1, (1, 'diplomacy', 18, 22))","(0, None)"

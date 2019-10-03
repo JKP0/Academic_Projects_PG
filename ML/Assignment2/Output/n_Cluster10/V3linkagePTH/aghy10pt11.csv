@@ -1,0 +1,11 @@
+SN.,size of cluster,cluster member,cluster ID,first match count,second match count
+0,46,"('able', 'nice', 'prejudice', 'problem', 'u', 'wise', 'honest', 'common', 'humility', 'different', 'morality', 'good', 'whole', 'sophisticated', 'diplomacy', 'polite', 'decisiveness', 'peaceful', 'sure', 'capable', 'political', 'equality', 'kindness', 'sociology', 'crucial', 'smart', 'approachable', 'international', 'agreeable', 'progressive', 'negotiator', 'genuine', 'selfless', 'vast', 'ability', 'calm', 'logical', 'eloquent', 'long', 'willingness', 'sense', 'idiot', 'basic', 'humble', 'compassion', 'confident')",0,"(13, (1, 'diplomacy', 18, 22))","(10, (0, 'leadership', 17, 29))"
+1,24,"('decisions', 'motives', 'passion', 'situations', 'bravery', 'ethic', 'leadership', 'president', 'deliberate', 'someone', 'intelligence', 'relations', 'ideas', 'politics', 'country', 'office', 'skills', 'honesty', 'systems', 'county', 'goals', 'teamwork', 'mature', 'knowledge')",1,"(6, (0, 'leadership', 17, 29))","(0, None)"
+2,13,"('course', 'join', 'commitment', 'groups', 'time', 'qualities', 'people', 'experience', 'lot', 'constitution', 'character', 'term', 'leader')",4,"(3, (2, 'relate to diverse groups', 8, 17))","(2, (0, 'leadership', 17, 29))"
+3,10,"('ulterior', 'inclusivity', 'umm', 'underprivileged', 'stressful', 'levelheadedness', ""i'm"", 'level-headed', 'others', 'proud')",7,"(3, (0, 'leadership', 17, 29))","(0, None)"
+4,7,"('dedication', 'prejudices', 'empathy', 'appeals', 'compromise', 'achievement', 'promises')",2,"(2, (1, 'diplomacy', 18, 22))","(1, (0, 'leadership', 17, 29))"
+5,4,"('run', 'understanding', 'work', 'determination')",3,"(1, (1, 'diplomacy', 18, 22))","(0, None)"
+6,2,"('management', 'care')",5,"(1, (1, 'diplomacy', 18, 22))","(0, None)"
+7,2,"('unity', 'integrity')",6,"(1, (2, 'relate to diverse groups', 8, 17))","(0, None)"
+8,2,"('strong', 'hard')",8,"(1, (0, 'leadership', 17, 29))","(0, None)"
+9,2,"('trustworthy', 'trustworthiness')",9,"(2, (6, 'honesty', 7, 10))","(0, None)"

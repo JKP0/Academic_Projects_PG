@@ -1,0 +1,11 @@
+SN.,size of cluster,cluster member,cluster ID,first match count,second match count
+0,20,"('prejudice', 'different', 'president', 'deliberate', 'sophisticated', 'well', 'qualified', 'office', 'smart', 'approachable', 'agreeable', 'honesty', 'dedicated', 'calm', 'eloquent', 'long', 'sense', 'mature', 'humble', 'compassion')",4,"(5, (0, 'leadership', 17, 29))","(0, None)"
+1,18,"('able', 'problem', 'hard', 'honest', 'humility', 'morality', 'decisiveness', 'peaceful', 'sure', 'capable', 'equality', 'kindness', 'crucial', 'together', 'genuine', 'vast', 'ability', 'confident')",5,"(6, (0, 'leadership', 17, 29))","(0, None)"
+2,17,"('nice', 'friendly', 'u', 'wise', 'common', 'good', 'whole', 'diplomacy', 'polite', 'political', 'sociology', 'international', 'progressive', 'county', 'selfless', 'idiot', 'basic')",7,"(5, (1, 'diplomacy', 18, 22))","(1, (0, 'leadership', 17, 29))"
+3,14,"('ulterior', 'strong', 'inclusivity', 'umm', 'underprivileged', 'stressful', 'levelheadedness', ""i'm"", 'level-headed', 'others', 'exceptionally', 'preferably', 'proud', 'politically')",8,"(4, (0, 'leadership', 17, 29))","(0, None)"
+4,14,"('course', 'motives', 'situations', 'leadership', 'groups', 'someone', 'intelligence', 'relations', 'politics', 'country', 'people', 'systems', 'caring', 'goals')",9,"(3, (3, 'political skills ', 9, 16))","(2, (0, 'leadership', 17, 29))"
+5,11,"('trustworthy', 'empathy', 'bravery', 'unity', 'integrity', 'empathize', 'trustworthiness', 'logical', 'willingness', 'oriented', 'knowledgeable')",0,"(3, (6, 'honesty', 7, 10))","(2, (1, 'diplomacy', 18, 22))"
+6,11,"('dedication', 'controlling', 'serve', 'run', 'understanding', 'solving', 'born', 'making', 'determination', 'working', 'promises')",1,"(3, (0, 'leadership', 17, 29))","(0, None)"
+7,10,"('join', 'commitment', 'time', 'experience', 'lot', 'think', 'character', 'constitution', 'term', 'leader')",3,"(2, (0, 'leadership', 17, 29))","(0, None)"
+8,9,"('prejudices', 'fulfilled', 'management', 'appeals', 'work', 'compromise', 'negotiator', 'achievement', 'care')",2,"(4, (1, 'diplomacy', 18, 22))","(1, (0, 'leadership', 17, 29))"
+9,8,"('decisions', 'passion', 'ethic', 'ideas', 'skills', 'qualities', 'teamwork', 'knowledge')",6,"(2, (0, 'leadership', 17, 29))","(0, None)"

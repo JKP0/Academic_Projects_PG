@@ -1,0 +1,11 @@
+SN.,size of cluster,cluster member,cluster ID,first match count,second match count
+0,37,"('able', 'nice', 'trustworthy', 'prejudice', 'problem', 'friendly', 'u', 'wise', 'honest', 'common', 'humility', 'morality', 'good', 'whole', 'diplomacy', 'polite', 'decisiveness', 'peaceful', 'sure', 'capable', 'trustworthiness', 'political', 'equality', 'kindness', 'sociology', 'crucial', 'together', 'international', 'progressive', 'genuine', 'selfless', 'vast', 'ability', 'logical', 'willingness', 'basic', 'confident')",0,"(9, (1, 'diplomacy', 18, 22))","(7, (0, 'leadership', 17, 29))"
+1,25,"('decisions', 'motives', 'passion', 'situations', 'bravery', 'ethic', 'leadership', 'deliberate', 'someone', 'intelligence', 'relations', 'ideas', 'politics', 'country', 'office', 'skills', 'honesty', 'negotiator', 'systems', 'county', 'goals', 'teamwork', 'mature', 'idiot', 'knowledge')",1,"(6, (0, 'leadership', 17, 29))","(0, None)"
+2,16,"('course', 'different', 'president', 'sophisticated', 'well', 'smart', 'approachable', 'lot', 'agreeable', 'calm', 'eloquent', 'long', 'sense', 'humble', 'compassion', 'term')",5,"(4, (0, 'leadership', 17, 29))","(0, None)"
+3,13,"('ulterior', 'inclusivity', 'umm', 'underprivileged', 'stressful', 'levelheadedness', ""i'm"", 'level-headed', 'others', 'exceptionally', 'preferably', 'proud', 'politically')",4,"(3, (0, 'leadership', 17, 29))","(0, None)"
+4,10,"('join', 'commitment', 'groups', 'time', 'qualities', 'people', 'experience', 'constitution', 'character', 'leader')",3,"(3, (2, 'relate to diverse groups', 8, 17))","(1, (0, 'leadership', 17, 29))"
+5,7,"('dedication', 'prejudices', 'empathy', 'appeals', 'compromise', 'achievement', 'promises')",2,"(2, (1, 'diplomacy', 18, 22))","(1, (0, 'leadership', 17, 29))"
+6,4,"('run', 'understanding', 'work', 'determination')",8,"(1, (1, 'diplomacy', 18, 22))","(0, None)"
+7,2,"('management', 'care')",6,"(1, (1, 'diplomacy', 18, 22))","(0, None)"
+8,2,"('unity', 'integrity')",7,"(1, (2, 'relate to diverse groups', 8, 17))","(0, None)"
+9,2,"('strong', 'hard')",9,"(1, (0, 'leadership', 17, 29))","(0, None)"

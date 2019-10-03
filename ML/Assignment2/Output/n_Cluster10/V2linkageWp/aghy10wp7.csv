@@ -1,0 +1,11 @@
+SN.,size of cluster,cluster member,cluster ID,first match count,second match count
+0,25,"('able', 'trustworthy', 'problem', 'hard', 'honest', 'humility', 'morality', 'polite', 'decisiveness', 'peaceful', 'sure', 'capable', 'trustworthiness', 'political', 'equality', 'kindness', 'crucial', 'together', 'genuine', 'selfless', 'vast', 'ability', 'logical', 'willingness', 'confident')",4,"(7, (0, 'leadership', 17, 29))","(0, None)"
+1,22,"('prejudice', 'passion', 'empathy', 'situations', 'bravery', 'president', 'unity', 'deliberate', 'someone', 'integrity', 'intelligence', 'politics', 'country', 'office', 'qualities', 'agreeable', 'honesty', 'negotiator', 'county', 'calm', 'mature', 'compassion')",0,"(4, (0, 'leadership', 17, 29))","(0, None)"
+2,14,"('ulterior', 'strong', 'inclusivity', 'umm', 'underprivileged', 'stressful', 'levelheadedness', ""i'm"", 'level-headed', 'others', 'exceptionally', 'preferably', 'proud', 'politically')",8,"(4, (0, 'leadership', 17, 29))","(0, None)"
+3,13,"('course', 'decisions', 'motives', 'ethic', 'leadership', 'relations', 'ideas', 'skills', 'systems', 'goals', 'teamwork', 'term', 'knowledge')",1,"(4, (0, 'leadership', 17, 29))","(0, None)"
+4,13,"('nice', 'friendly', 'u', 'wise', 'common', 'good', 'whole', 'diplomacy', 'sociology', 'international', 'progressive', 'idiot', 'basic')",5,"(4, (1, 'diplomacy', 18, 22))","(0, None)"
+5,11,"('join', 'commitment', 'groups', 'time', 'people', 'experience', 'lot', 'constitution', 'character', 'leader', 'care')",2,"(3, (2, 'relate to diverse groups', 8, 17))","(1, (0, 'leadership', 17, 29))"
+6,9,"('different', 'sophisticated', 'well', 'smart', 'approachable', 'eloquent', 'long', 'sense', 'humble')",6,"(2, (0, 'leadership', 17, 29))","(0, None)"
+7,5,"('prejudices', 'management', 'appeals', 'compromise', 'achievement')",3,"(2, (2, 'relate to diverse groups', 8, 17))","(1, (0, 'leadership', 17, 29))"
+8,4,"('dedication', 'understanding', 'determination', 'promises')",9,"(1, (3, 'political skills ', 9, 16))","(0, None)"
+9,2,"('run', 'work')",7,"(1, (1, 'diplomacy', 18, 22))","(0, None)"

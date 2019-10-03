@@ -1,0 +1,11 @@
+SN.,size of cluster,cluster member,cluster ID,first match count,second match count
+0,38,"('able', 'nice', 'trustworthy', 'prejudice', 'problem', 'friendly', 'u', 'wise', 'honest', 'common', 'humility', 'morality', 'good', 'whole', 'diplomacy', 'polite', 'decisiveness', 'peaceful', 'sure', 'capable', 'trustworthiness', 'political', 'equality', 'kindness', 'sociology', 'crucial', 'together', 'international', 'progressive', 'genuine', 'selfless', 'vast', 'ability', 'logical', 'willingness', 'basic', 'knowledgeable', 'confident')",4,"(9, (1, 'diplomacy', 18, 22))","(7, (0, 'leadership', 17, 29))"
+1,18,"('decisions', 'motives', 'ethic', 'leadership', 'someone', 'intelligence', 'relations', 'ideas', 'politics', 'country', 'skills', 'negotiator', 'systems', 'county', 'goals', 'teamwork', 'idiot', 'knowledge')",3,"(4, (5, 'intelligence/knowledge', 9, 12))","(3, (0, 'leadership', 17, 29))"
+2,17,"('different', 'president', 'deliberate', 'sophisticated', 'well', 'qualified', 'smart', 'approachable', 'agreeable', 'dedicated', 'calm', 'eloquent', 'long', 'sense', 'mature', 'humble', 'compassion')",6,"(5, (0, 'leadership', 17, 29))","(0, None)"
+3,15,"('ulterior', 'strong', 'inclusivity', 'hard', 'umm', 'underprivileged', 'stressful', 'levelheadedness', ""i'm"", 'level-headed', 'others', 'exceptionally', 'preferably', 'proud', 'politically')",0,"(4, (0, 'leadership', 17, 29))","(0, None)"
+4,11,"('dedication', 'prejudices', 'empathy', 'serve', 'fulfilled', 'empathize', 'appeals', 'compromise', 'achievement', 'oriented', 'promises')",2,"(4, (2, 'relate to diverse groups', 8, 17))","(2, (0, 'leadership', 17, 29))"
+5,11,"('course', 'join', 'commitment', 'groups', 'time', 'people', 'experience', 'lot', 'caring', 'constitution', 'term')",8,"(3, (2, 'relate to diverse groups', 8, 17))","(2, (0, 'leadership', 17, 29))"
+6,9,"('passion', 'situations', 'bravery', 'unity', 'integrity', 'office', 'qualities', 'honesty', 'character')",9,"(2, (6, 'honesty', 7, 10))","(1, (0, 'leadership', 17, 29))"
+7,6,"('controlling', 'run', 'understanding', 'work', 'born', 'determination')",5,"(1, (0, 'leadership', 17, 29))","(0, None)"
+8,4,"('management', 'think', 'leader', 'care')",1,"(1, (1, 'diplomacy', 18, 22))","(0, None)"
+9,3,"('solving', 'making', 'working')",7,"(2, (0, 'leadership', 17, 29))","(0, None)"
