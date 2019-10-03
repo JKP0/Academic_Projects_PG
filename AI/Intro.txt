@@ -1,0 +1,1 @@
+This folder contains pacman projects of UC Berkeley CS188 course; which I have done in my AI coures CS246 at RKMVERI, Bleur Math, Howrah.
