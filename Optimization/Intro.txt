@@ -1,1 +1,1 @@
-intro
+This folder contains optimization algorithm projects which I have done in my Opteh Algoritm coures CS326 at RKMVERI, Bleur Math, Howrah.
