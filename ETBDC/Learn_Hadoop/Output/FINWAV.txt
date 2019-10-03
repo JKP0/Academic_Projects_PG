@@ -1,0 +1,1 @@
+"Weighted Average for length of words in file is : "	4.238095238095238

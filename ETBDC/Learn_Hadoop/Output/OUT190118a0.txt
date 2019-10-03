@@ -1,0 +1,5 @@
+"#of revelant line is : "	3
+"#of irrevelant line is : "	3
+"rkmveri this makes it"	": rkmveri"
+"this is my first line rkmveri"	": rkmveri"
+"we have it here rkmveri again rkmveri very relevant"	": rkmveri"

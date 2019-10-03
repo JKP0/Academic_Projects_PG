@@ -1,0 +1,21 @@
+Following the docs, I tried to run a mrjob on Amazon's EMR. I've tested the job locally using the inline runner,
+but it fails when running on Amazon. I've narrowed the failure down to my dependence on an external data file zip_codes.txt.
+If I run without that dependency using hardcoded zip code data it works just fine.
+
+I've tried to include the necessary data file using the upload file argument. When I look on S3, the file did make it there,
+but clearly something is going wrong so that I cannot access it locally.
+
+Here is my mrjob.conf file:
+
+runners:
+  emr:
+    aws_access_key_id: FOOBARBAZQUX
+    aws_secret_access_key: IAMASECRETKEY
+    aws_region: us-east-1
+    ec2_key_pair: mapreduce
+    ec2_key_pair_file: $ENV/keys/mapreduce.pem
+    ssh_tunnel_to_job_tracker: true
+    ssh_tunnel_is_open: true
+    cleanup_on_failure: ALL
+    cmdenv:
+      TZ: America/Los_Angeles 
